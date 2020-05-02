@@ -1,0 +1,9 @@
+{
+  "common": {
+    "HELLO": "Hola mundo.",
+    "GREETING": "Hola {{name}}, encantado de conocerte.",
+    "GETTING_STARTED": "Comenzar",
+    "COMPONENTS": "Componentes",
+    "BACK": "Atrás"
+  }
+}

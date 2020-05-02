@@ -1,0 +1,9 @@
+{
+  "common": {
+    "HELLO": "Hello word.",
+    "GREETING": "Hello {{name}}, nice to meet you.",
+    "GETTING_STARTED": "Getting Started",
+    "COMPONENTS": "Components",
+    "BACK": "Back"
+  }
+}
